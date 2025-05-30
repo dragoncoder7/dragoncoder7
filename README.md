@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dragoncoder7
 - 👀 I’m interested in net-work security,and want to learn more about it.
 - 🌱 I’m currently learning java,c,and etc.
-- 💞️ I’m looking to collaborate on ...... im junk.
+- 💞️ I’m looking to collaborate on ...... I'm learning...
 - 📫 my e-mail is xiaolongmeng6@gmail.com & 1026225160@qq.com, welcome to concat me and study with me.
 
 <!---
